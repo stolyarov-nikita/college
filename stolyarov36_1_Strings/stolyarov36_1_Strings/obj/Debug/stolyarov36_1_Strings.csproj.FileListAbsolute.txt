@@ -1,0 +1,11 @@
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\bin\Debug\stolyarov36_1_Strings.exe.config
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\bin\Debug\stolyarov36_1_Strings.exe
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\bin\Debug\stolyarov36_1_Strings.pdb
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1.Form1.resources
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.exe
+C:\Users\stoly\source\repos\stolyarov36_1_Strings\stolyarov36_1_Strings\obj\Debug\stolyarov36_1_Strings.pdb
