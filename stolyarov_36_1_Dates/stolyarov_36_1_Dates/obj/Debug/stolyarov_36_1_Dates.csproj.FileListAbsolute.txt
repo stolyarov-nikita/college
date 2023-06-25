@@ -1,0 +1,11 @@
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\bin\Debug\stolyarov_36_1_Dates.exe.config
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\bin\Debug\stolyarov_36_1_Dates.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\bin\Debug\stolyarov_36_1_Dates.pdb
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.Form1.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_Dates\stolyarov_36_1_Dates\obj\Debug\stolyarov_36_1_Dates.pdb

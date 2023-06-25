@@ -1,0 +1,11 @@
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\bin\Debug\stolyarov_36_1_PictureViewer.exe.config
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\bin\Debug\stolyarov_36_1_PictureViewer.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\bin\Debug\stolyarov_36_1_PictureViewer.pdb
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.Form1.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_PictureViewer\stolyarov_36_1_PictureViewer\obj\Debug\stolyarov_36_1_PictureViewer.pdb
