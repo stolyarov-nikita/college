@@ -1,0 +1,6 @@
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\bin\Debug\stolyarov_36_1_Prakticheskaya_4.dll
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\bin\Debug\stolyarov_36_1_Prakticheskaya_4.pdb
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\obj\Debug\stolyarov_36_1_Prakticheskaya_4.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\obj\Debug\stolyarov_36_1_Prakticheskaya_4.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\obj\Debug\stolyarov_36_1_Prakticheskaya_4.dll
+C:\Users\stoly\source\repos\stolyarov_36_1_Prakticheskaya_4\stolyarov_36_1_Prakticheskaya_4\obj\Debug\stolyarov_36_1_Prakticheskaya_4.pdb
