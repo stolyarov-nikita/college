@@ -1,0 +1,11 @@
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\bin\Debug\stolyarov36_1_Disks.exe.config
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\bin\Debug\stolyarov36_1_Disks.exe
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\bin\Debug\stolyarov36_1_Disks.pdb
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.Form1.resources
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.exe
+C:\Users\stoly\source\repos\stolyarov36_1_Disks\stolyarov36_1_Disks\obj\Debug\stolyarov36_1_Disks.pdb

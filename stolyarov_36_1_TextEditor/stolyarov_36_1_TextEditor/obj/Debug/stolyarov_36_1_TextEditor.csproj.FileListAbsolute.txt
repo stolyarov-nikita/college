@@ -1,0 +1,12 @@
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\bin\Debug\stolyarov_36_1_TextEditor.exe.config
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\bin\Debug\stolyarov_36_1_TextEditor.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\bin\Debug\stolyarov_36_1_TextEditor.pdb
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.Form1.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.exe
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.pdb
+C:\Users\stoly\source\repos\stolyarov_36_1_TextEditor\stolyarov_36_1_TextEditor\obj\Debug\stolyarov_36_1_TextEditor.AboutBox1.resources

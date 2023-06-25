@@ -1,0 +1,11 @@
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\bin\Debug\stolyarov36_1_MatchingGame.exe.config
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\bin\Debug\stolyarov36_1_MatchingGame.exe
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\bin\Debug\stolyarov36_1_MatchingGame.pdb
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.csproj.AssemblyReference.cache
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.Form1.resources
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.Properties.Resources.resources
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.csproj.GenerateResource.cache
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.exe
+C:\Users\stoly\source\repos\stolyarov36_1_MatchingGame\stolyarov36_1_MatchingGame\obj\Debug\stolyarov36_1_MatchingGame.pdb
